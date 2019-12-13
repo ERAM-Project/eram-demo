@@ -1,0 +1,358 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml:2:1-35:12
+MERGED from [:eram-oc] /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-oc/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-26:12
+MERGED from [:eram-common] /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-common/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-15:12
+MERGED from [pub.devrel:easypermissions:0.3.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/125014ff7b9a6a57a0dae8b4e765d6a5/jetified-easypermissions-0.3.0/AndroidManifest.xml:2:1-19:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/6be7d574a9800aecbfa4f11f3224957e/appcompat-1.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/7f84de324f346a4aab5ed262a06f9591/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.room:room-runtime:2.1.0-alpha04] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/7d04291c790a0342bf7f509c8fabff62/room-runtime-2.1.0-alpha04/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/210fc1ae7a62e53bfed27c4d2c1180d8/lifecycle-extensions-2.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-auth:10.2.6] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/61bd12319ee5917d6afd73b113b24e4c/jetified-play-services-auth-10.2.6/AndroidManifest.xml:16:1-26:12
+MERGED from [com.google.android.gms:play-services-auth-base:10.2.6] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/9a696407fc230a2a32e78f7912ed2b35/jetified-play-services-auth-base-10.2.6/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-base:10.2.6] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/5f0c648c56e0d2fd793fd13fa8ced884/jetified-play-services-base-10.2.6/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-tasks:10.2.6] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/398fec330fa7ce115efdd3399ef93b3a/jetified-play-services-tasks-10.2.6/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:10.2.6] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/6e98c715a2ba61d283fdb1409826d5ca/jetified-play-services-basement-10.2.6/AndroidManifest.xml:16:1-23:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/373237d8ccee1470e352e473d604fa73/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/6b66aa27eeb24404007f4905b44705bb/fragment-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/d7f2803a456fe77e2ac25ee3bde5aa2b/vectordrawable-animated-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/4bf4eccf71cae9a867afdfd91b8e184e/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/a21c0920afc0c468dff93f61660a1d38/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/9f8ef32aa9d194243c29b6fe5a4f87ec/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/bbac0440f6f30d1111123baa0a4d0a58/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/fbb38bffca755e06587fc298999e4fc8/vectordrawable-1.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/011f971d29048f33f0616f36672bfa8d/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/2ba33698ed9a01dc35bf523ec16c1904/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/9696f44670768b2bec47170afb26b128/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/f56c95451e956639a847510e3c45180e/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/720d01bc93f487f2f0ba8a45da76ece0/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/ba2617667dcaa6030d31f5f21c97bc03/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/00131d9df3fb2f82df491ad6233c0d1e/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/8ba00cd2f39cb0b0a3a7c28ef6ac306e/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/08aeb8dba05210f2377f96b56a653893/core-1.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/c2fde3f436db02b24246c9053fdae7af/versionedparcelable-1.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/4a7f672306049a5ed20c18d6b32872cc/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/9336a9fb854edb52a976aab3a5c36a4c/sqlite-framework-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/4698c98e286a9e5cbf11f96c02d2b722/sqlite-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/401d7174a359a9d7becb5a8e0975760e/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/ca0e508da94210bb2969d7edfe195fb3/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/8e337da4a8c3b76ad412c47d1cc7a88c/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/f6598618c5171393be7884db24e305ef/lifecycle-process-2.0.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/fb088cbb8eeb01665a9935479ea468fe/lifecycle-service-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/0fbb3b35cf5ff60eb7bff30a0c91c3cc/lifecycle-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/9371d7f3202810a1ac2e76fa2ca1ac36/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/d465581c9e333514e9a155c07991a832/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/47dfe5e2e9b9d4218532da57ee308000/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/0dbbda2569679ecb92f822d86f577ce2/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml:2:1-35:12
+	package
+		ADDED from /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml:3:5-23
+		INJECTED from /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml
+		INJECTED from /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml
+		ADDED from /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml:2:1-35:12
+		INJECTED from /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml
+		ADDED from /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml:2:1-35:12
+		INJECTED from /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml:5:5-67
+MERGED from [:eram-oc] /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-oc/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:5-67
+MERGED from [:eram-oc] /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-oc/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:5-67
+	android:name
+		ADDED from /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml:6:5-79
+MERGED from [:eram-oc] /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-oc/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-79
+MERGED from [:eram-oc] /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-oc/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml:6:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml:7:5-76
+MERGED from [:eram-oc] /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-oc/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:5-76
+MERGED from [:eram-oc] /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-oc/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml:7:22-73
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml:8:22-76
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml:9:5-76
+	android:name
+		ADDED from /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml:9:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml:10:5-75
+MERGED from [:eram-oc] /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-oc/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:5-75
+MERGED from [:eram-oc] /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-oc/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:5-75
+	android:name
+		ADDED from /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml:10:22-72
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml:11:5-81
+MERGED from [:eram-oc] /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-oc/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-81
+MERGED from [:eram-oc] /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-oc/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml:11:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml:12:5-80
+MERGED from [:eram-oc] /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-oc/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-80
+MERGED from [:eram-oc] /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-oc/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml:12:22-77
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml:13:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml:14:22-78
+uses-permission#android.permission.CHANGE_WIFI_MULTICAST_STATE
+ADDED from /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml:15:5-86
+MERGED from [:eram-oc] /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-oc/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-86
+MERGED from [:eram-oc] /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-oc/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-86
+	android:name
+		ADDED from /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml:15:22-83
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml:16:5-71
+MERGED from [:eram-oc] /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-oc/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:5-72
+MERGED from [:eram-oc] /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-oc/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:5-72
+	android:name
+		ADDED from /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml:16:22-69
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml:17:5-70
+MERGED from [:eram-oc] /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-oc/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:5-71
+MERGED from [:eram-oc] /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-oc/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:5-71
+	android:name
+		ADDED from /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml:17:22-68
+application
+ADDED from /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml:19:5-33:19
+MERGED from [:eram-oc] /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-oc/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:5-24:19
+MERGED from [:eram-oc] /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-oc/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:5-24:19
+MERGED from [:eram-common] /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-common/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-13:19
+MERGED from [:eram-common] /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-common/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-13:19
+MERGED from [pub.devrel:easypermissions:0.3.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/125014ff7b9a6a57a0dae8b4e765d6a5/jetified-easypermissions-0.3.0/AndroidManifest.xml:11:5-17:19
+MERGED from [pub.devrel:easypermissions:0.3.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/125014ff7b9a6a57a0dae8b4e765d6a5/jetified-easypermissions-0.3.0/AndroidManifest.xml:11:5-17:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/7f84de324f346a4aab5ed262a06f9591/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/7f84de324f346a4aab5ed262a06f9591/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.room:room-runtime:2.1.0-alpha04] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/7d04291c790a0342bf7f509c8fabff62/room-runtime-2.1.0-alpha04/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.room:room-runtime:2.1.0-alpha04] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/7d04291c790a0342bf7f509c8fabff62/room-runtime-2.1.0-alpha04/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/210fc1ae7a62e53bfed27c4d2c1180d8/lifecycle-extensions-2.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/210fc1ae7a62e53bfed27c4d2c1180d8/lifecycle-extensions-2.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-auth:10.2.6] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/61bd12319ee5917d6afd73b113b24e4c/jetified-play-services-auth-10.2.6/AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-auth:10.2.6] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/61bd12319ee5917d6afd73b113b24e4c/jetified-play-services-auth-10.2.6/AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-base:10.2.6] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/5f0c648c56e0d2fd793fd13fa8ced884/jetified-play-services-base-10.2.6/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:10.2.6] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/5f0c648c56e0d2fd793fd13fa8ced884/jetified-play-services-base-10.2.6/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.6] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/398fec330fa7ce115efdd3399ef93b3a/jetified-play-services-tasks-10.2.6/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.6] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/398fec330fa7ce115efdd3399ef93b3a/jetified-play-services-tasks-10.2.6/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.6] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/6e98c715a2ba61d283fdb1409826d5ca/jetified-play-services-basement-10.2.6/AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:10.2.6] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/6e98c715a2ba61d283fdb1409826d5ca/jetified-play-services-basement-10.2.6/AndroidManifest.xml:19:5-21:19
+MERGED from [androidx.core:core:1.0.1] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/08aeb8dba05210f2377f96b56a653893/core-1.0.1/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/08aeb8dba05210f2377f96b56a653893/core-1.0.1/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/c2fde3f436db02b24246c9053fdae7af/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/c2fde3f436db02b24246c9053fdae7af/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/f6598618c5171393be7884db24e305ef/lifecycle-process-2.0.0/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/f6598618c5171393be7884db24e305ef/lifecycle-process-2.0.0/AndroidManifest.xml:22:5-28:19
+	android:enabled
+		ADDED from [:eram-oc] /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-oc/build/intermediates/library_manifest/debug/AndroidManifest.xml:22:9-31
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/08aeb8dba05210f2377f96b56a653893/core-1.0.1/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml:24:9-35
+	android:label
+		ADDED from /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml:22:9-41
+	android:roundIcon
+		ADDED from /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml:23:9-54
+	android:persistent
+		ADDED from [:eram-oc] /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-oc/build/intermediates/library_manifest/debug/AndroidManifest.xml:23:9-34
+	android:icon
+		ADDED from /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml:21:9-43
+	android:allowBackup
+		ADDED from /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml:20:9-35
+	android:theme
+		ADDED from /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml:25:9-40
+activity#org.eram.oc.MainActivity
+ADDED from /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml:26:9-32:20
+	android:name
+		ADDED from /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml:26:19-50
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml:30:27-74
+uses-sdk
+INJECTED from /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml
+INJECTED from /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml
+MERGED from [:eram-oc] /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-oc/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:eram-oc] /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-oc/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:eram-common] /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-common/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:eram-common] /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-common/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [pub.devrel:easypermissions:0.3.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/125014ff7b9a6a57a0dae8b4e765d6a5/jetified-easypermissions-0.3.0/AndroidManifest.xml:7:5-9:41
+MERGED from [pub.devrel:easypermissions:0.3.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/125014ff7b9a6a57a0dae8b4e765d6a5/jetified-easypermissions-0.3.0/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/6be7d574a9800aecbfa4f11f3224957e/appcompat-1.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/6be7d574a9800aecbfa4f11f3224957e/appcompat-1.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/7f84de324f346a4aab5ed262a06f9591/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/7f84de324f346a4aab5ed262a06f9591/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.room:room-runtime:2.1.0-alpha04] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/7d04291c790a0342bf7f509c8fabff62/room-runtime-2.1.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime:2.1.0-alpha04] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/7d04291c790a0342bf7f509c8fabff62/room-runtime-2.1.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/210fc1ae7a62e53bfed27c4d2c1180d8/lifecycle-extensions-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/210fc1ae7a62e53bfed27c4d2c1180d8/lifecycle-extensions-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:10.2.6] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/61bd12319ee5917d6afd73b113b24e4c/jetified-play-services-auth-10.2.6/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth:10.2.6] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/61bd12319ee5917d6afd73b113b24e4c/jetified-play-services-auth-10.2.6/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:10.2.6] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/9a696407fc230a2a32e78f7912ed2b35/jetified-play-services-auth-base-10.2.6/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:10.2.6] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/9a696407fc230a2a32e78f7912ed2b35/jetified-play-services-auth-base-10.2.6/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.6] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/5f0c648c56e0d2fd793fd13fa8ced884/jetified-play-services-base-10.2.6/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.6] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/5f0c648c56e0d2fd793fd13fa8ced884/jetified-play-services-base-10.2.6/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.6] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/398fec330fa7ce115efdd3399ef93b3a/jetified-play-services-tasks-10.2.6/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.6] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/398fec330fa7ce115efdd3399ef93b3a/jetified-play-services-tasks-10.2.6/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.6] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/6e98c715a2ba61d283fdb1409826d5ca/jetified-play-services-basement-10.2.6/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.6] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/6e98c715a2ba61d283fdb1409826d5ca/jetified-play-services-basement-10.2.6/AndroidManifest.xml:17:5-43
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/373237d8ccee1470e352e473d604fa73/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/373237d8ccee1470e352e473d604fa73/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/6b66aa27eeb24404007f4905b44705bb/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/6b66aa27eeb24404007f4905b44705bb/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/d7f2803a456fe77e2ac25ee3bde5aa2b/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/d7f2803a456fe77e2ac25ee3bde5aa2b/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/4bf4eccf71cae9a867afdfd91b8e184e/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/4bf4eccf71cae9a867afdfd91b8e184e/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/a21c0920afc0c468dff93f61660a1d38/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/a21c0920afc0c468dff93f61660a1d38/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/9f8ef32aa9d194243c29b6fe5a4f87ec/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/9f8ef32aa9d194243c29b6fe5a4f87ec/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/bbac0440f6f30d1111123baa0a4d0a58/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/bbac0440f6f30d1111123baa0a4d0a58/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/fbb38bffca755e06587fc298999e4fc8/vectordrawable-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/fbb38bffca755e06587fc298999e4fc8/vectordrawable-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/011f971d29048f33f0616f36672bfa8d/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/011f971d29048f33f0616f36672bfa8d/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/2ba33698ed9a01dc35bf523ec16c1904/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/2ba33698ed9a01dc35bf523ec16c1904/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/9696f44670768b2bec47170afb26b128/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/9696f44670768b2bec47170afb26b128/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/f56c95451e956639a847510e3c45180e/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/f56c95451e956639a847510e3c45180e/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/720d01bc93f487f2f0ba8a45da76ece0/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/720d01bc93f487f2f0ba8a45da76ece0/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/ba2617667dcaa6030d31f5f21c97bc03/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/ba2617667dcaa6030d31f5f21c97bc03/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/00131d9df3fb2f82df491ad6233c0d1e/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/00131d9df3fb2f82df491ad6233c0d1e/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/8ba00cd2f39cb0b0a3a7c28ef6ac306e/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/8ba00cd2f39cb0b0a3a7c28ef6ac306e/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/08aeb8dba05210f2377f96b56a653893/core-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/08aeb8dba05210f2377f96b56a653893/core-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/c2fde3f436db02b24246c9053fdae7af/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/c2fde3f436db02b24246c9053fdae7af/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/4a7f672306049a5ed20c18d6b32872cc/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/4a7f672306049a5ed20c18d6b32872cc/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/9336a9fb854edb52a976aab3a5c36a4c/sqlite-framework-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/9336a9fb854edb52a976aab3a5c36a4c/sqlite-framework-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/4698c98e286a9e5cbf11f96c02d2b722/sqlite-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/4698c98e286a9e5cbf11f96c02d2b722/sqlite-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/401d7174a359a9d7becb5a8e0975760e/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/401d7174a359a9d7becb5a8e0975760e/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/ca0e508da94210bb2969d7edfe195fb3/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/ca0e508da94210bb2969d7edfe195fb3/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/8e337da4a8c3b76ad412c47d1cc7a88c/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/8e337da4a8c3b76ad412c47d1cc7a88c/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/f6598618c5171393be7884db24e305ef/lifecycle-process-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/f6598618c5171393be7884db24e305ef/lifecycle-process-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/fb088cbb8eeb01665a9935479ea468fe/lifecycle-service-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/fb088cbb8eeb01665a9935479ea468fe/lifecycle-service-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/0fbb3b35cf5ff60eb7bff30a0c91c3cc/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/0fbb3b35cf5ff60eb7bff30a0c91c3cc/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/9371d7f3202810a1ac2e76fa2ca1ac36/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/9371d7f3202810a1ac2e76fa2ca1ac36/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/d465581c9e333514e9a155c07991a832/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/d465581c9e333514e9a155c07991a832/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/47dfe5e2e9b9d4218532da57ee308000/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/47dfe5e2e9b9d4218532da57ee308000/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/0dbbda2569679ecb92f822d86f577ce2/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/0dbbda2569679ecb92f822d86f577ce2/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml
+INJECTED from /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml
+		ADDED from /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml
+		INJECTED from /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml
+		ADDED from /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml
+		INJECTED from /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml
+activity#org.eram.test.tests
+ADDED from [:eram-common] /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-common/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-56
+	android:name
+		ADDED from [:eram-common] /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-common/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:19-53
+activity#pub.devrel.easypermissions.AppSettingsDialogHolderActivity
+ADDED from [pub.devrel:easypermissions:0.3.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/125014ff7b9a6a57a0dae8b4e765d6a5/jetified-easypermissions-0.3.0/AndroidManifest.xml:12:9-16:66
+	android:label
+		ADDED from [pub.devrel:easypermissions:0.3.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/125014ff7b9a6a57a0dae8b4e765d6a5/jetified-easypermissions-0.3.0/AndroidManifest.xml:15:13-29
+	android:exported
+		ADDED from [pub.devrel:easypermissions:0.3.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/125014ff7b9a6a57a0dae8b4e765d6a5/jetified-easypermissions-0.3.0/AndroidManifest.xml:14:13-37
+	android:theme
+		ADDED from [pub.devrel:easypermissions:0.3.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/125014ff7b9a6a57a0dae8b4e765d6a5/jetified-easypermissions-0.3.0/AndroidManifest.xml:16:13-63
+	android:name
+		ADDED from [pub.devrel:easypermissions:0.3.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/125014ff7b9a6a57a0dae8b4e765d6a5/jetified-easypermissions-0.3.0/AndroidManifest.xml:13:13-86
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.1.0-alpha04] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/7d04291c790a0342bf7f509c8fabff62/room-runtime-2.1.0-alpha04/AndroidManifest.xml:23:9-25:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.1.0-alpha04] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/7d04291c790a0342bf7f509c8fabff62/room-runtime-2.1.0-alpha04/AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [androidx.room:room-runtime:2.1.0-alpha04] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/7d04291c790a0342bf7f509c8fabff62/room-runtime-2.1.0-alpha04/AndroidManifest.xml:24:13-74
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:10.2.6] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/61bd12319ee5917d6afd73b113b24e4c/jetified-play-services-auth-10.2.6/AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:10.2.6] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/61bd12319ee5917d6afd73b113b24e4c/jetified-play-services-auth-10.2.6/AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:10.2.6] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/61bd12319ee5917d6afd73b113b24e4c/jetified-play-services-auth-10.2.6/AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:10.2.6] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/61bd12319ee5917d6afd73b113b24e4c/jetified-play-services-auth-10.2.6/AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:10.2.6] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/61bd12319ee5917d6afd73b113b24e4c/jetified-play-services-auth-10.2.6/AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:10.2.6] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/61bd12319ee5917d6afd73b113b24e4c/jetified-play-services-auth-10.2.6/AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:10.2.6] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/61bd12319ee5917d6afd73b113b24e4c/jetified-play-services-auth-10.2.6/AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:10.2.6] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/61bd12319ee5917d6afd73b113b24e4c/jetified-play-services-auth-10.2.6/AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:10.2.6] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/61bd12319ee5917d6afd73b113b24e4c/jetified-play-services-auth-10.2.6/AndroidManifest.xml:24:18-63
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.6] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/5f0c648c56e0d2fd793fd13fa8ced884/jetified-play-services-base-10.2.6/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.6] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/5f0c648c56e0d2fd793fd13fa8ced884/jetified-play-services-base-10.2.6/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.6] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/5f0c648c56e0d2fd793fd13fa8ced884/jetified-play-services-base-10.2.6/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.6] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/5f0c648c56e0d2fd793fd13fa8ced884/jetified-play-services-base-10.2.6/AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.2.6] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/6e98c715a2ba61d283fdb1409826d5ca/jetified-play-services-basement-10.2.6/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.2.6] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/6e98c715a2ba61d283fdb1409826d5ca/jetified-play-services-basement-10.2.6/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.2.6] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/6e98c715a2ba61d283fdb1409826d5ca/jetified-play-services-basement-10.2.6/AndroidManifest.xml:20:20-65
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/f6598618c5171393be7884db24e305ef/lifecycle-process-2.0.0/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/f6598618c5171393be7884db24e305ef/lifecycle-process-2.0.0/AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/f6598618c5171393be7884db24e305ef/lifecycle-process-2.0.0/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/f6598618c5171393be7884db24e305ef/lifecycle-process-2.0.0/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/f6598618c5171393be7884db24e305ef/lifecycle-process-2.0.0/AndroidManifest.xml:24:13-79

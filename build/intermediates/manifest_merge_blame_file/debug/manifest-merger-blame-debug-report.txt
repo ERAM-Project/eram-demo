@@ -1,0 +1,161 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="org.eram"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+8-->/mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->/mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml:5:5-67
+11-->/mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->/mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml:6:5-79
+12-->/mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml:6:22-76
+13    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+13-->/mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml:7:5-76
+13-->/mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml:7:22-73
+14    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+14-->/mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml:8:5-79
+14-->/mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml:8:22-76
+15    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+15-->/mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml:9:5-76
+15-->/mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml:9:22-73
+16    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+16-->/mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml:10:5-75
+16-->/mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml:10:22-72
+17    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+17-->/mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml:11:5-81
+17-->/mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml:11:22-78
+18    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+18-->/mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml:12:5-80
+18-->/mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml:12:22-77
+19    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+19-->/mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml:13:5-79
+19-->/mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml:13:22-76
+20    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+20-->/mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml:14:5-81
+20-->/mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml:14:22-78
+21    <uses-permission android:name="android.permission.CHANGE_WIFI_MULTICAST_STATE" />
+21-->/mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml:15:5-86
+21-->/mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml:15:22-83
+22    <uses-permission android:name="android.permission.READ_CONTACTS" />
+22-->/mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml:16:5-71
+22-->/mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml:16:22-69
+23    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+23-->/mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml:17:5-70
+23-->/mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml:17:22-68
+24
+25    <application
+25-->/mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml:19:5-33:19
+26        android:allowBackup="true"
+26-->/mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml:20:9-35
+27        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+27-->[androidx.core:core:1.0.1] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/08aeb8dba05210f2377f96b56a653893/core-1.0.1/AndroidManifest.xml:22:18-86
+28        android:debuggable="true"
+29        android:enabled="true"
+29-->[:eram-oc] /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-oc/build/intermediates/library_manifest/debug/AndroidManifest.xml:22:9-31
+30        android:extractNativeLibs="false"
+31        android:icon="@mipmap/ic_launcher"
+31-->/mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml:21:9-43
+32        android:label="@string/app_name"
+32-->/mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml:22:9-41
+33        android:persistent="true"
+33-->[:eram-oc] /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-oc/build/intermediates/library_manifest/debug/AndroidManifest.xml:23:9-34
+34        android:roundIcon="@mipmap/ic_launcher_round"
+34-->/mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml:23:9-54
+35        android:supportsRtl="true"
+35-->/mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml:24:9-35
+36        android:theme="@style/AppTheme" >
+36-->/mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml:25:9-40
+37        <activity android:name="org.eram.oc.MainActivity" >
+37-->/mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml:26:9-32:20
+37-->/mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml:26:19-50
+38            <intent-filter>
+38-->/mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml:27:13-31:29
+39                <action android:name="android.intent.action.MAIN" />
+39-->/mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml:28:17-69
+39-->/mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml:28:25-66
+40
+41                <category android:name="android.intent.category.LAUNCHER" />
+41-->/mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml:30:17-77
+41-->/mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-demo/src/main/AndroidManifest.xml:30:27-74
+42            </intent-filter>
+43        </activity>
+44        <activity android:name="org.eram.test.tests" />
+44-->[:eram-common] /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-common/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-56
+44-->[:eram-common] /mnt/data/baseFolder/MyPlateforms/ERAM-Project/eram-common/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:19-53
+45        <activity
+45-->[pub.devrel:easypermissions:0.3.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/125014ff7b9a6a57a0dae8b4e765d6a5/jetified-easypermissions-0.3.0/AndroidManifest.xml:12:9-16:66
+46            android:name="pub.devrel.easypermissions.AppSettingsDialogHolderActivity"
+46-->[pub.devrel:easypermissions:0.3.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/125014ff7b9a6a57a0dae8b4e765d6a5/jetified-easypermissions-0.3.0/AndroidManifest.xml:13:13-86
+47            android:exported="false"
+47-->[pub.devrel:easypermissions:0.3.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/125014ff7b9a6a57a0dae8b4e765d6a5/jetified-easypermissions-0.3.0/AndroidManifest.xml:14:13-37
+48            android:label=""
+48-->[pub.devrel:easypermissions:0.3.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/125014ff7b9a6a57a0dae8b4e765d6a5/jetified-easypermissions-0.3.0/AndroidManifest.xml:15:13-29
+49            android:theme="@style/EasyPermissions.Transparent" />
+49-->[pub.devrel:easypermissions:0.3.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/125014ff7b9a6a57a0dae8b4e765d6a5/jetified-easypermissions-0.3.0/AndroidManifest.xml:16:13-63
+50
+51        <service
+51-->[androidx.room:room-runtime:2.1.0-alpha04] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/7d04291c790a0342bf7f509c8fabff62/room-runtime-2.1.0-alpha04/AndroidManifest.xml:23:9-25:40
+52            android:name="androidx.room.MultiInstanceInvalidationService"
+52-->[androidx.room:room-runtime:2.1.0-alpha04] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/7d04291c790a0342bf7f509c8fabff62/room-runtime-2.1.0-alpha04/AndroidManifest.xml:24:13-74
+53            android:exported="false" />
+53-->[androidx.room:room-runtime:2.1.0-alpha04] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/7d04291c790a0342bf7f509c8fabff62/room-runtime-2.1.0-alpha04/AndroidManifest.xml:25:13-37
+54
+55        <activity
+55-->[com.google.android.gms:play-services-auth:10.2.6] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/61bd12319ee5917d6afd73b113b24e4c/jetified-play-services-auth-10.2.6/AndroidManifest.xml:20:9-189
+56            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+56-->[com.google.android.gms:play-services-auth:10.2.6] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/61bd12319ee5917d6afd73b113b24e4c/jetified-play-services-auth-10.2.6/AndroidManifest.xml:20:19-68
+57            android:excludeFromRecents="true"
+57-->[com.google.android.gms:play-services-auth:10.2.6] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/61bd12319ee5917d6afd73b113b24e4c/jetified-play-services-auth-10.2.6/AndroidManifest.xml:20:129-162
+58            android:exported="false"
+58-->[com.google.android.gms:play-services-auth:10.2.6] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/61bd12319ee5917d6afd73b113b24e4c/jetified-play-services-auth-10.2.6/AndroidManifest.xml:20:163-187
+59            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+59-->[com.google.android.gms:play-services-auth:10.2.6] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/61bd12319ee5917d6afd73b113b24e4c/jetified-play-services-auth-10.2.6/AndroidManifest.xml:20:69-128
+60        <!--
+61Service handling Google Sign-In user revocation. For apps that do not integrate with
+62            Google Sign-In, this service will never be started.
+63        -->
+64        <service
+64-->[com.google.android.gms:play-services-auth:10.2.6] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/61bd12319ee5917d6afd73b113b24e4c/jetified-play-services-auth-10.2.6/AndroidManifest.xml:24:9-184
+65            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+65-->[com.google.android.gms:play-services-auth:10.2.6] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/61bd12319ee5917d6afd73b113b24e4c/jetified-play-services-auth-10.2.6/AndroidManifest.xml:24:18-63
+66            android:exported="true"
+66-->[com.google.android.gms:play-services-auth:10.2.6] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/61bd12319ee5917d6afd73b113b24e4c/jetified-play-services-auth-10.2.6/AndroidManifest.xml:24:64-87
+67            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION" />
+67-->[com.google.android.gms:play-services-auth:10.2.6] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/61bd12319ee5917d6afd73b113b24e4c/jetified-play-services-auth-10.2.6/AndroidManifest.xml:24:88-182
+68
+69        <activity
+69-->[com.google.android.gms:play-services-base:10.2.6] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/5f0c648c56e0d2fd793fd13fa8ced884/jetified-play-services-base-10.2.6/AndroidManifest.xml:19:9-172
+70            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+70-->[com.google.android.gms:play-services-base:10.2.6] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/5f0c648c56e0d2fd793fd13fa8ced884/jetified-play-services-base-10.2.6/AndroidManifest.xml:19:19-85
+71            android:exported="false"
+71-->[com.google.android.gms:play-services-base:10.2.6] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/5f0c648c56e0d2fd793fd13fa8ced884/jetified-play-services-base-10.2.6/AndroidManifest.xml:19:146-170
+72            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+72-->[com.google.android.gms:play-services-base:10.2.6] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/5f0c648c56e0d2fd793fd13fa8ced884/jetified-play-services-base-10.2.6/AndroidManifest.xml:19:86-145
+73
+74        <meta-data
+74-->[com.google.android.gms:play-services-basement:10.2.6] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/6e98c715a2ba61d283fdb1409826d5ca/jetified-play-services-basement-10.2.6/AndroidManifest.xml:20:9-121
+75            android:name="com.google.android.gms.version"
+75-->[com.google.android.gms:play-services-basement:10.2.6] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/6e98c715a2ba61d283fdb1409826d5ca/jetified-play-services-basement-10.2.6/AndroidManifest.xml:20:20-65
+76            android:value="@integer/google_play_services_version" />
+76-->[com.google.android.gms:play-services-basement:10.2.6] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/6e98c715a2ba61d283fdb1409826d5ca/jetified-play-services-basement-10.2.6/AndroidManifest.xml:20:66-119
+77
+78        <provider
+78-->[androidx.lifecycle:lifecycle-process:2.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/f6598618c5171393be7884db24e305ef/lifecycle-process-2.0.0/AndroidManifest.xml:23:9-27:43
+79            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+79-->[androidx.lifecycle:lifecycle-process:2.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/f6598618c5171393be7884db24e305ef/lifecycle-process-2.0.0/AndroidManifest.xml:24:13-79
+80            android:authorities="org.eram.lifecycle-process"
+80-->[androidx.lifecycle:lifecycle-process:2.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/f6598618c5171393be7884db24e305ef/lifecycle-process-2.0.0/AndroidManifest.xml:25:13-69
+81            android:exported="false"
+81-->[androidx.lifecycle:lifecycle-process:2.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/f6598618c5171393be7884db24e305ef/lifecycle-process-2.0.0/AndroidManifest.xml:26:13-37
+82            android:multiprocess="true" />
+82-->[androidx.lifecycle:lifecycle-process:2.0.0] /home/hemazouzi/.gradle/caches/transforms-2/files-2.1/f6598618c5171393be7884db24e305ef/lifecycle-process-2.0.0/AndroidManifest.xml:27:13-40
+83    </application>
+84
+85</manifest>
